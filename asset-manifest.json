@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.6777df22.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.b30c8ba0.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.b30c8ba0.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.8dc26080.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.8dc26080.js.map",
-    "static/css/2.a1840750.chunk.css": "/react-gh-pages/static/css/2.a1840750.chunk.css",
-    "static/js/2.3794c9d9.chunk.js": "/react-gh-pages/static/js/2.3794c9d9.chunk.js",
-    "static/js/2.3794c9d9.chunk.js.map": "/react-gh-pages/static/js/2.3794c9d9.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.db9249b11909ff92e2b23e332696721e.js": "/react-gh-pages/precache-manifest.db9249b11909ff92e2b23e332696721e.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/2.a1840750.chunk.css.map": "/react-gh-pages/static/css/2.a1840750.chunk.css.map",
-    "static/css/main.6777df22.chunk.css.map": "/react-gh-pages/static/css/main.6777df22.chunk.css.map",
-    "static/js/2.3794c9d9.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.3794c9d9.chunk.js.LICENSE.txt"
+    "main.css": "/EnvironmentalCauses/static/css/main.6777df22.chunk.css",
+    "main.js": "/EnvironmentalCauses/static/js/main.4019bebe.chunk.js",
+    "main.js.map": "/EnvironmentalCauses/static/js/main.4019bebe.chunk.js.map",
+    "runtime-main.js": "/EnvironmentalCauses/static/js/runtime-main.e0e53d7c.js",
+    "runtime-main.js.map": "/EnvironmentalCauses/static/js/runtime-main.e0e53d7c.js.map",
+    "static/css/2.a1840750.chunk.css": "/EnvironmentalCauses/static/css/2.a1840750.chunk.css",
+    "static/js/2.3794c9d9.chunk.js": "/EnvironmentalCauses/static/js/2.3794c9d9.chunk.js",
+    "static/js/2.3794c9d9.chunk.js.map": "/EnvironmentalCauses/static/js/2.3794c9d9.chunk.js.map",
+    "index.html": "/EnvironmentalCauses/index.html",
+    "precache-manifest.df61c8f5a7b4f66cba5f1f80db43e193.js": "/EnvironmentalCauses/precache-manifest.df61c8f5a7b4f66cba5f1f80db43e193.js",
+    "service-worker.js": "/EnvironmentalCauses/service-worker.js",
+    "static/css/2.a1840750.chunk.css.map": "/EnvironmentalCauses/static/css/2.a1840750.chunk.css.map",
+    "static/css/main.6777df22.chunk.css.map": "/EnvironmentalCauses/static/css/main.6777df22.chunk.css.map",
+    "static/js/2.3794c9d9.chunk.js.LICENSE.txt": "/EnvironmentalCauses/static/js/2.3794c9d9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8dc26080.js",
+    "static/js/runtime-main.e0e53d7c.js",
     "static/css/2.a1840750.chunk.css",
     "static/js/2.3794c9d9.chunk.js",
     "static/css/main.6777df22.chunk.css",
-    "static/js/main.b30c8ba0.chunk.js"
+    "static/js/main.4019bebe.chunk.js"
   ]
 }
