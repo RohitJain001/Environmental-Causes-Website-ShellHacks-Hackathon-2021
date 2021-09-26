@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9c46f24e50a9d90ee29d8619eb2b1b13",
+    "revision": "d542e3dad235541e50f5a85f60b4b7b4",
     "url": "/EnvironmentalCauses/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/EnvironmentalCauses/static/css/2.a1840750.chunk.css"
   },
   {
-    "revision": "521591795c8738f6a13c",
+    "revision": "34d99aac2461c94eda10",
     "url": "/EnvironmentalCauses/static/css/main.725e750d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/EnvironmentalCauses/static/js/2.b18d92e4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "521591795c8738f6a13c",
-    "url": "/EnvironmentalCauses/static/js/main.9319ee89.chunk.js"
+    "revision": "34d99aac2461c94eda10",
+    "url": "/EnvironmentalCauses/static/js/main.9ceb450c.chunk.js"
   },
   {
     "revision": "7184a87edbcc5480dc72",
