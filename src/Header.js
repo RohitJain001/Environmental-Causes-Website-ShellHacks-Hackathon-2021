@@ -10,7 +10,7 @@ import {List} from "./List";
 function Header() {
     return (
         <div className='header'>
-            <Link to='/'>
+            <Link to='/EnvironmentalCauses'>
                 <img
                     className="header__icon"
                     src="https://t4.ftcdn.net/jpg/01/37/78/17/360_F_137781704_dUUl0onbYwSk51aQxjiLg4Rl5gcuWsTz.jpg"
@@ -18,11 +18,11 @@ function Header() {
                 />
                 
             </Link>
-            <h2 className="ml-auto" style={{float:'left', }}>MyEnvi</h2>
-            <div className='header__center'>
+            <h2 className="ml-auto" style={{float:'left', "padding-left":"170px" }}>MyEnvi</h2>
+            {/* <div className='header__center'>
                 <input type="text" />
                 <SearchIcon />
-            </div>
+            </div> */}
 
             <div className='header__right'>
             {/* <Link to="/List" className="btn btn-primary">Sign up</Link> */}

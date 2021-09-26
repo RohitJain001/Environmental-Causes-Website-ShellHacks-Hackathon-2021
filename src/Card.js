@@ -9,7 +9,7 @@ function Card({ src, title, description, price }) {
                 <h2>{title}</h2>
                 <h4>{description}</h4>
                 <h3>{price}</h3><br/>
-                <button onClick={()=>{ alert('Added to Calendar'); }}>Add to Calendar</button>
+                <button onClick={()=>{ alert('Added to Calendar'); }} >Add to Calendar</button>
             </div>
         </div>
     )

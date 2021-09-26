@@ -30,7 +30,7 @@ function Search() {
             <h2>
                 City <PeopleIcon />
             </h2>
-            <input type="text" />
+            <input type="text" placeholder="Enter You City" />
             <Button onClick={() => history.push('/search')}>Search for Events</Button>
         </div>
     )
