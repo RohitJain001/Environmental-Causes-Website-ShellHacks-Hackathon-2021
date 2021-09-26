@@ -10,15 +10,16 @@
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "date-fns": "^2.15.0",
+    "deploy": "gh-pages -d build",
+    "final-form": "^4.20.2",
+    "predeploy": "npm run build",
     "react": "^16.13.1",
     "react-date-range": "^1.0.3",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "react-dom": "^16.13.1",
+    "react-final-form": "^6.5.3",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.3"
   },
-  
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
