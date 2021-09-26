@@ -34,8 +34,8 @@ function SearchResult({
                     </div>
                      <div className='searchResults__price'>
                         {/* <h2>{price}</h2> */}
-                        <button onClick={()=>{ alert('alert'); }}>{total}</button>
-                    </div> 
+                        <button  style={{"color":"white", "backgroundColor":"green", "border":"3px", "border-radius":"3px", "cursor":"pointer", "padding":"10px"}} onClick={()=>{ alert('Added to Calendar'); }}  >Add to Calendar</button>
+            </div> 
                 </div>
             </div>
         </div>

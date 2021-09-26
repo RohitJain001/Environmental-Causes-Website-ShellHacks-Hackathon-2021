@@ -3,7 +3,7 @@ import './Home.css';
 import './Card.css'
 import Card1 from './Cardbig'
 
-function AttendOrganize() {
+function AttendOrganize({setCurrentView}) {
     return(
         <>
             <div className='home__section'>
@@ -12,11 +12,13 @@ function AttendOrganize() {
                 title="Organize an Event"
                 description="Initiate the event for Environment"
             />
+            
             <Card1
                 src="https://www.wealthmanagement.com/sites/wealthmanagement.com/files/group-hug-illustration.jpg"
                 title="Attend an Event"
                 description="Volunteer or sponsor events."
             />
+            
             {/* <Card
                 src="https://a0.muscache.com/im/pictures/fdb46962-10c1-45fc-a228-d0b055411448.jpg?im_w=720"
                 title="Entire homes"

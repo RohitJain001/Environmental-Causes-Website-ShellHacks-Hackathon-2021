@@ -25,7 +25,7 @@ function Header() {
             </div> */}
 
             <div className='header__right'>
-            {/* <Link to="/List" className="btn btn-primary">Sign up</Link> */}
+            {/* <Link to="/List" className="btn btn-primary">Sign In</Link> */}
             SignOut
                 <LanguageIcon />
                 <ExpandMoreIcon />
