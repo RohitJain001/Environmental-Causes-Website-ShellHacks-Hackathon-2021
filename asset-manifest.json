@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/EnvironmentalCauses/static/css/main.725e750d.chunk.css",
-    "main.js": "/EnvironmentalCauses/static/js/main.4619979f.chunk.js",
-    "main.js.map": "/EnvironmentalCauses/static/js/main.4619979f.chunk.js.map",
+    "main.js": "/EnvironmentalCauses/static/js/main.18e8088b.chunk.js",
+    "main.js.map": "/EnvironmentalCauses/static/js/main.18e8088b.chunk.js.map",
     "runtime-main.js": "/EnvironmentalCauses/static/js/runtime-main.463ebc2f.js",
     "runtime-main.js.map": "/EnvironmentalCauses/static/js/runtime-main.463ebc2f.js.map",
     "static/css/2.a1840750.chunk.css": "/EnvironmentalCauses/static/css/2.a1840750.chunk.css",
     "static/js/2.00312f4b.chunk.js": "/EnvironmentalCauses/static/js/2.00312f4b.chunk.js",
     "static/js/2.00312f4b.chunk.js.map": "/EnvironmentalCauses/static/js/2.00312f4b.chunk.js.map",
     "index.html": "/EnvironmentalCauses/index.html",
-    "precache-manifest.11672099f314306572595e7d38857972.js": "/EnvironmentalCauses/precache-manifest.11672099f314306572595e7d38857972.js",
+    "precache-manifest.050d8401def7e6f78d849ef49b6b47b5.js": "/EnvironmentalCauses/precache-manifest.050d8401def7e6f78d849ef49b6b47b5.js",
     "service-worker.js": "/EnvironmentalCauses/service-worker.js",
     "static/css/2.a1840750.chunk.css.map": "/EnvironmentalCauses/static/css/2.a1840750.chunk.css.map",
     "static/css/main.725e750d.chunk.css.map": "/EnvironmentalCauses/static/css/main.725e750d.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.a1840750.chunk.css",
     "static/js/2.00312f4b.chunk.js",
     "static/css/main.725e750d.chunk.css",
-    "static/js/main.4619979f.chunk.js"
+    "static/js/main.18e8088b.chunk.js"
   ]
 }
