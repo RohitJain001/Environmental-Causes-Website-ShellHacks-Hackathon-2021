@@ -34,7 +34,7 @@ function Home() {
             <Card
                 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaV96i3NglX9ULd5cZ0We9n7zOU7V6w2LJbw&usqp=CAU"
                 title="Planting Trees near Florida University"
-                description="Start a garden or plant a few trees. The best way to get the community involved in this sort of endeavor is to make the garden a shared project for your neighborhood or town. When planting trees, consider placing them in an area where members of the community can enjoy them."
+                description="Let's plant a few trees near Florida University. Let's make it a shared project. Requesting everyone to reach opposite to Florida University to help us plant more and more trees. Your participation is crucial. Thanks"
                 price="29th Sep 2021  10am"
             />
             <Card

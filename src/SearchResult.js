@@ -34,7 +34,7 @@ function SearchResult({
                     </div>
                      <div className='searchResults__price'>
                         {/* <h2>{price}</h2> */}
-                        <p>{total}</p>
+                        <button onClick={()=>{ alert('alert'); }}>{total}</button>
                     </div> 
                 </div>
             </div>

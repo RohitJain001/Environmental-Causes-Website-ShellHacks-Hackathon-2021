@@ -22,10 +22,17 @@
 }
 
 .banner__searchButton {
-  background-color: white !important;
+  background-color: rgb(11, 177, 86) !important;
   font-weight: 900 !important;
   text-transform: inherit !important;
-  color: #ff7779 !important;
+  color: #ffffff !important;
+  height: 70px;
+  width: 300px;
+  border: #250e8b;
+  padding:0;
+  margin: auto;
+  border-radius: 100px;
+  cursor:pointer;
 }
 
 .banner__info > button {
